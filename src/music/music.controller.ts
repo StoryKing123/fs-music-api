@@ -1,5 +1,5 @@
 import { Controller, Get, HttpException, Param } from '@nestjs/common';
-import * as match from '@revincx/unblockneteasemusic';
+import * as match from '@unblockneteasemusic/server';
 import { GlobalException } from 'src/utils/exception/GlobalException';
 import { MatchMusic } from './interface/music.interface';
 // const match = require('@nondanee/unblockneteasemusic');

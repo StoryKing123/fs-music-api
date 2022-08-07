@@ -26,6 +26,7 @@
     "@nestjs/platform-express": "^8.0.0",
     "@nondanee/unblockneteasemusic": "^0.25.3",
     "@revincx/unblockneteasemusic": "^0.25.8",
+    "@unblockneteasemusic/server": "^0.27.0-rc.6",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0"
